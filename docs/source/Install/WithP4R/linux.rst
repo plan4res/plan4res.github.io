@@ -1,3 +1,4 @@
+.. _linux_install:
 Installing on Linux:
 ~~~~~~~~~~~~~~~~~~~~
 
