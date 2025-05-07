@@ -105,8 +105,7 @@ you can also edit the file *Vagrantfile* located in *P4R_DIR/p4r-env*,
 edit parameter vb.memory (in Mb):
 
 .. image:: ../../_static/vagrantsettings.png
-   :width: 4.14152in
-   :height: 1.1358in
+   :width: 650
 
 You may also increase the number of CPUs allocated to the VM if
 possible, on your machine. In above example, it is set to 6.
