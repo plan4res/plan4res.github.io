@@ -169,7 +169,7 @@ To check if new versions are available, run the following commands:
 If the following output is displayed, it means your installation is up
 to date:
 
-.. image:: _static/gitfetch.png
+.. image:: ../../_static/gitfetch.png
     :width: 650
 
 Otherwise, you can perform the update using:
