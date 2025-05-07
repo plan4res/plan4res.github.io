@@ -6,5 +6,3 @@ Requirements: at least 3G available.
 
 
 
-
-   git clone https://github.com/plan4res/toyDataset
