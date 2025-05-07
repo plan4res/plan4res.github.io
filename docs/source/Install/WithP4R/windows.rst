@@ -169,9 +169,8 @@ To check if new versions are available, run the following commands:
 If the following output is displayed, it means your installation is up
 to date:
 
-.. image:: vertopal_7ea7c42a5d9e4370ae25784770341067/media/image10.png
-   :width: 6.10703in
-   :height: 0.95995in
+.. image:: _static/gitfetch.png
+    :width: 650
 
 Otherwise, you can perform the update using:
 
