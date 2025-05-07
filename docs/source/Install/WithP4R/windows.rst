@@ -1,7 +1,7 @@
 Installing on Windows, using WLS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Follow the procedure ‘Installing on Linux’ : '<linux.rst>'_
+Follow the procedure ‘Installing on Linux : <linux.rst>'_
 
 Installing on Windows, using Vagrant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
