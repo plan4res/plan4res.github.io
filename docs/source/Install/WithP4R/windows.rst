@@ -194,5 +194,7 @@ update it but to download the last version of this toyDataset:
    toyDataset toyDataset_save)
 
 -  Download the new version of the dataset:
+   git clone https://github.com/plan4res/toyDataset
+
 
 ..
