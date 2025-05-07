@@ -14,8 +14,8 @@ Here, you can find detailed documentation about installation, use and parametriz
    :caption: General
 
    Home <self>
-   about
-   release_notes
+   #about
+   #release_notes
 
 
 .. toctree::
@@ -65,6 +65,6 @@ Here, you can find detailed documentation about installation, use and parametriz
    
    Config/SMS
 
-references
-   get_involved
-   contact
+   #references
+   #get_involved
+   #contact
