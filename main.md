@@ -642,7 +642,7 @@ This directory is structured as follows:
 
 Figure 3 shows the structure of plan4res.
 
-Figure 3: structure of data
+Figure 3: structure of data 
 
 Each dataset corresponds to a directory in data (here toyDataset, Otherdataset1 and OtherDataset2). Datasets always have the same structure:
 
