@@ -2,7 +2,7 @@ Installing on Windows, using WLS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Follow the procedure *Installing on Linux*  
-:doc:`linux` 
+:doc:`/docs/source/install/WithP4R/linux` 
 
 Installing on Windows, using Vagrant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
