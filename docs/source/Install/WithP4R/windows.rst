@@ -104,7 +104,7 @@ be done via the -V option of the installation command (see above), but
 you can also edit the file *Vagrantfile* located in *P4R_DIR/p4r-env*,
 edit parameter vb.memory (in Mb):
 
-.. image:: _static/vagrantsettings.png
+.. image:: ../../_static/vagrantsettings.png
    :width: 4.14152in
    :height: 1.1358in
 
