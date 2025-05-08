@@ -7,7 +7,7 @@ Requirements: at least 3G available.
    :maxdepth: 2
    :caption: plan4res Install with p4r-env
 
-    Install/WithP4R/Linux
-    Install/WithP4R/Windows
+    Install/WithP4R/linux
+    Install/WithP4R/windows
 
 
