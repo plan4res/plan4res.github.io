@@ -23,13 +23,21 @@ Contents
    
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Installation
 
    Install/summary 
-   Install/WithP4R/index
-   Install/WithoutP4R/index
-
+   
+   .. toctree::
+   
+	   :maxdepth: 2
+	   :caption: Install within p4r-env
+	   
+	   Install/p4rlinux
+	   Install/p4rwindows
+   
+   
+   
 .. toctree::
    :maxdepth: 2
    :caption: The plan4res environment, modules and workflows
