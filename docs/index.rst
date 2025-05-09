@@ -28,13 +28,10 @@ Contents
 
    Install/summary 
    
-   .. toctree::
-   
-	   :maxdepth: 2
-	   :caption: Install within p4r-env
+   :caption: Install within p4r-env
 	   
-	   Install/p4rlinux
-	   Install/p4rwindows
+   Install/p4rlinux
+   Install/p4rwindows
    
    
    
