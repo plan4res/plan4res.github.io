@@ -23,10 +23,10 @@ Contents
    
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Installation
 
-   Install/summary
+   Install/summary 
    Install/WithP4R/index
    Install/WithoutP4R/index
 
