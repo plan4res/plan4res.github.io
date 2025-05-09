@@ -1,7 +1,7 @@
 Welcome to the plan4res documentation!
 ======================================
 
-**plan4res is an open source electricity system model. 
+plan4res is an open source electricity system model. 
 
 Here, you can find detailed documentation about installation, use and parametrization of the model.
 
@@ -28,7 +28,7 @@ Here, you can find detailed documentation about installation, use and parametriz
    :maxdepth: 2
    :caption: The plan4res environment, modules and workflows
 
-   .. P4R-ENV/index
+   P4R-ENV/index
 
 .. toctree::
    :maxdepth: 2

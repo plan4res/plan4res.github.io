@@ -10,4 +10,3 @@ install on Linux (Ubuntu or Debian), MacOS or Windows
    :caption: plan4res Install with p4r-env
 
     Install/WithoutP4R/linux
-    Install/WithoutP4R/windows
