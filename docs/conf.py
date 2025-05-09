@@ -17,7 +17,6 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
-    "sphinxcontrib.bibtex",
     "myst_parser",
     "sphinx_github_changelog",
 ]
