@@ -1,5 +1,5 @@
-Installing Plan4res
-===================
+Installation Summary 
+====================
 
 The process to install plan4res is described in the following
 subsections.

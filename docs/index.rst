@@ -15,7 +15,6 @@ Here, you can find detailed documentation about installation, use and parametriz
    :maxdepth: 2
    :caption: General
 
-   Home <self>
    QuickInstallRun
 
 .. toctree::
@@ -24,6 +23,8 @@ Here, you can find detailed documentation about installation, use and parametriz
 
    Install/summary
    Install/WithP4R/index
+      Install/WithP4R/linux
+      Install/WithP4R/windows
    Install/WithoutP4R/index
 
 .. toctree::
