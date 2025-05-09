@@ -1,6 +1,8 @@
 Welcome to the plan4res documentation!
 ======================================
 
+DOCSOURCE
+
 plan4res is an open source electricity system model. 
 
 Here, you can find detailed documentation about installation, use and parametrization of the model.
