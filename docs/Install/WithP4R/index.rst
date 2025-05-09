@@ -1,5 +1,5 @@
-Installation of the full plan4res environment, for all operating systems
-------------------------------------------------------------------------
+Install full plan4res environment
+---------------------------------
 
 Requirements: at least 3G available.
 
@@ -7,7 +7,7 @@ Requirements: at least 3G available.
    :maxdepth: 2
    :caption: plan4res Install with p4r-env
 
-    Install/WithP4R/linux
-    Install/WithP4R/windows
+    linux
+    windows
 
 
